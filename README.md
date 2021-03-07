@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on adding more features to my main project which is the **[ProjectView app](https://github.com/stachusmith/mysite-ProjectView)**. Please check out the repository 'mysite-ProjectView' for more details.
+I'm currently working on adding more features to my main project which is the **[ProjectView app](https://github.com/stachusmith/mysite-ProjectView)**.
 
 For more details about me please check out my <a href="https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/">LinkedIn</a> profile.
   
