@@ -4,7 +4,7 @@ I'm currently working on adding more features to my main project which is the **
 
 for more details about me please check out my <a href="https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/" target="_blank" rel="noopener noreferrer">LinkedIn</a> profile.
 
-
+[LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3){:target="_blank"}
   
 <!--
 **stachusmith/stachusmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
