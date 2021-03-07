@@ -2,9 +2,9 @@
 
 I'm currently working on adding more features to my main project which is the **ProjectView app**. Please check out the repository 'mysite-ProjectView' for more details.
 
-for more details about me please check out my [LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/){:target="_blank"} profile.
+for more details about me please check out my <a href="https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/" target="_blank" rel="noopener noreferrer">LinkedIn</a> profile.
 
-<a href="https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/" target="_blank" rel="noopener noreferrer">
+
   
 <!--
 **stachusmith/stachusmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
