@@ -3,7 +3,8 @@
 I'm currently working on adding more features to my main project which is the **ProjectView app**. Please check out the repository 'mysite-ProjectView' for more details.
 
 for more details about me please check out my LinkedIn profile:
-@ icon-fa-linkedin-in
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stanis%C5%82aw-smith-49b6731b3/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)
 
 <!--
 **stachusmith/stachusmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
