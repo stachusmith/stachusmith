@@ -4,7 +4,7 @@ I'm currently working on adding more features to my main project which is the **
 
 In addition to that, I'm also working on my new Spotify app (also within the **[ProjectView app](https://github.com/stachusmith/mysite-ProjectView)** repository:
 
-- anyone who's ever used the Spotify shuffle funktion, knows that it sucks
+- anyone who's ever used the Spotify shuffle function, knows that it sucks
 - this app will download your playlist, randomize it and upload it back again as a new one
 - I will be using the Django REST Framework to communicate with Spotify's API
 
